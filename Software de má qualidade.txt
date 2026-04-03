@@ -1,0 +1,3 @@
+Software de má qualidade tem impacto social nos funcionários que precisam dar
+manutenção no código da empresa, isso causa fuga desses funcionários e o ponto
+crítico é quando funcionários chave saem do projeto mal feito e mal documentado
