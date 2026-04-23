@@ -5,8 +5,8 @@ Tema:
 Design de protótipo experimental de framework de interface gráfica
 
 Descrição:
-Este é um trabalho investigativo de arquitetura de software e design patterns aplicado a um pequeno framework de interface gráfica implementado em C++.
-O objetivo é explorar arquiteturas de software para solucionar os problemas de um framework, que por sua vez terá suas funcionalidades propositalmente reduzidas devido à restrição de tempo, limitadas a  renderização, tratamento de eventos e gerenciamento de estado, se der tempo.
+Este é um trabalho de estudo de como de arquitetura de software e design de software pode ajudar no desenvolvimento com o objetivo de criar um pequeno framework de interface gráfica implementado em C++.
+O objetivo é estudar arquiteturas de software para solucionar os problemas de um framework GUI, que por sua vez terá suas funcionalidades propositalmente reduzidas devido à restrição de tempo, limitadas a  renderização, tratamento de eventos e gerenciamento de estado, se der tempo.
 Será usado Cmake para build, SDL para abstração do SO para vídeo e input, e o Blend2D para renderização.
 
 Objetivo.
@@ -30,5 +30,19 @@ O Widget pode ser serializavel, ou seja, seria possivel formata-lo e criar a est
 
 
 ## Primeiros passos
-[] Delimitação de um tema
-[] Idea, pode ser, esolver um problema, trazer novos conhecimentos ou gerar questionamentos.
+[] Resumo, resumo é feito após a conclusão do TCC
+    [] Justificativa
+    [] Objetivo do trabalho
+    [] Metodologia usada no trabalho
+    [] Materiais e métodos
+[] Tema
+    [] Justificativa
+[] Revisão Bibliográfica
+    [] Bom que tenha subtópicos com palavras-chave
+[] Materiais e métodos
+[] Considerações finais (conclusão da pesquisa do TCC)
+[] Referências bibliográficas
+
+
+
+
